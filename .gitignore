@@ -1,0 +1,8 @@
+*.zip
+*.utf-8
+*.gz
+data/
+src/test/
+result/
+out/
+target/
